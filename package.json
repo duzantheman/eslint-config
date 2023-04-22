@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-myconfig",
+  "name": "@duzantheman/eslint-config",
   "version": "1.0.1",
   "description": "My central ESLint config",
   "author": "Chris Duzan",

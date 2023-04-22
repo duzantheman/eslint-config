@@ -1,6 +1,6 @@
 {
   "name": "@duzantheman/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My central ESLint config",
   "author": "Chris Duzan",
   "license": "ISC",

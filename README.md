@@ -6,7 +6,7 @@ My central ESLint config
 
 ```
 npm i -D \
-  @duzantheman/eslint-config \
+  @cgduzan/eslint-config \
   @typescript-eslint/eslint-plugin \
   eslint \
   eslint-plugin-prettier \
@@ -22,7 +22,7 @@ Add this to your `package.json` file:
 
 ```json
 "eslintConfig": {
-  "extends": "@duzantheman/eslint-config/web"
+  "extends": "@cgduzan/eslint-config/web"
 }
 ```
 
@@ -30,6 +30,6 @@ or in your `.eslintrc` file:
 
 ```json
 {
-  "extends": "@duzantheman/eslint-config/web"
+  "extends": "@cgduzan/eslint-config/web"
 }
 ```
